@@ -2,6 +2,7 @@
 Welcome to our open-source DevSecOps curriculum! This comprehensive resource is designed to equip new graduates, companies, professors, students, and self-learners with practical skills in DevSecOps, thereby bridging the knowledge gap in its principles and practices. Our curriculum prepares students for a smooth transition from academic learning to the professional environment by focusing on real-world applications.
 
 ## Course Overview 📖
+[Topics and Chapters here]
 
 ## Why DevSecOps and CI/CD in Academia? 🎓💻
 The tech world is rapidly evolving, and with it, the requirements of the software industry are changing at an unprecedented pace. Traditional academic curricula often lag behind, particularly in areas like DevSecOps and CI/CD practices. This creates a significant skills gap for graduates entering the industry, who find themselves unprepared for the demands of modern software development and deployment. Key insights from our research highlight this disconnect:
