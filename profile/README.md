@@ -2,8 +2,9 @@
 Welcome to our open-source DevSecOps curriculum! This comprehensive resource is designed to equip new graduates, companies, professors, students, and self-learners with practical skills in DevSecOps, thereby bridging the knowledge gap in its principles and practices. Our curriculum prepares students for a smooth transition from academic learning to the professional environment by focusing on real-world applications.
 
 ## Repository Structure 🗂️
-- 📚 **[Course Content Repo](https://github.com/open-devsecops/course)**: Houses the core curriculum, including content on Version Control, CI/CD, and DevSecOps principles.
-- 🛠️ **[Infrastructure Setup Repo](https://github.com/open-devsecops/lab-infra-setup)**: Contrains instructions and scripts for setting up the infrastructure necessary for hands-on lab exercises in the course.
+📚 **[Course Content Repo](https://github.com/open-devsecops/course)**: Houses the core curriculum, including content on Version Control, CI/CD, and DevSecOps principles.
+
+🛠️ **[Infrastructure Setup Repo](https://github.com/open-devsecops/lab-infra-setup)**: Contains instructions and scripts for setting up the infrastructure necessary for hands-on lab exercises.
 
 ## Why DevSecOps and CI/CD in Academia? 🎓💻
 The tech world is rapidly evolving, and with it, the requirements of the software industry are changing at an unprecedented pace. Traditional academic curricula often lag behind, particularly in areas like DevSecOps and CI/CD practices. This creates a significant skills gap for graduates entering the industry, who find themselves unprepared for the demands of modern software development and deployment. Key insights from our research highlight this disconnect:
@@ -20,7 +21,7 @@ The tech world is rapidly evolving, and with it, the requirements of the softwar
 
 Our curriculum aims to fill this void by providing up-to-date, practical training in DevSecOps and CI/CD practices. By integrating our modules into existing courses, professors can enrich their curriculum, preparing students for the challenges of modern software development and making them valuable assets to the industry from day one.
 
-To understand the skills gap that new graduates face, refer to our [User Research](research/user-research.md).
+To understand the skills gap that new graduates face, refer to our [User Research](https://github.com/open-devsecops/course/blob/master/research/user-research.md).
 
 ## Benefits of Open-Source 🌍
 - **Continuous Evolution**: Keeping the curriculum up-to-date with the latest industry advancements.
@@ -29,6 +30,7 @@ To understand the skills gap that new graduates face, refer to our [User Researc
 - **Transparency and Trust**: Encouraging scrutiny and feedback for quality content.
 
 ## Getting Started :rocket:
+[Add information to get started here]
 
 ## Contributing to the Curriculum 🤝
 Contributions are welcome! Help us keep the curriculum relevant and effective by updating content, adding new exercises, or providing feedback.
