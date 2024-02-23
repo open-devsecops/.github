@@ -4,7 +4,7 @@ Welcome to our open-source DevSecOps curriculum! This comprehensive resource is 
 ## Repository Structure 🗂️
 📚 **[Course Content Repo](https://github.com/open-devsecops/course)**: Houses the core curriculum, including content on Version Control, CI/CD, and DevSecOps principles.
 
-🛠️ **[Infrastructure Setup Repo](https://github.com/open-devsecops/lab-infra-setup)**: Contains instructions and scripts for setting up the infrastructure necessary for hands-on lab exercises.
+🛠️ **[Infrastructure Setup Repo](https://github.com/open-devsecops/lab-infra-setup)**: Contains instructions for setting up the infrastructure necessary for hands-on lab exercises.
 
 ## Why DevSecOps and CI/CD in Academia? 🎓💻
 The tech world is rapidly evolving, and with it, the requirements of the software industry are changing at an unprecedented pace. Traditional academic curricula often lag behind, particularly in areas like DevSecOps and CI/CD practices. This creates a significant skills gap for graduates entering the industry, who find themselves unprepared for the demands of modern software development and deployment. Key insights from our research highlight this disconnect:
