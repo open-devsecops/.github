@@ -24,9 +24,6 @@ To understand the skills gap that new graduates face, refer to our [User Researc
 - **Adaptability**: Customizable for different educational settings.
 - **Transparency and Trust**: Encouraging scrutiny and feedback for quality content.
 
-## Getting Started :rocket:
-[Add information to get started here]
-
 ## Contributing to the Curriculum 🤝
 Contributions are welcome! Help us keep the curriculum relevant and effective by updating content, adding new exercises, or providing feedback.
 
