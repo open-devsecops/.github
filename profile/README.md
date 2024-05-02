@@ -27,7 +27,7 @@ To understand the skills gap that new graduates face, refer to our [User Researc
 ## Contributing to the Curriculum 🤝
 Contributions are welcome! Help us keep the curriculum relevant and effective by updating content, adding new exercises, or providing feedback.
 
-### Created By University Students
+### Connect with the Creators
 - [Sirena Akopyan](https://www.linkedin.com/in/sirena-akopyan/)
 - [Bhavya Garlapati](https://www.linkedin.com/in/bhavya-garlapati-95ab46225/)
 - [Eric Kim](https://www.linkedin.com/in/taehyunnkim/)
