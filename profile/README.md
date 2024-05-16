@@ -28,6 +28,7 @@ To understand the skills gap that new graduates face, refer to our [User Researc
 Contributions are welcome! Help us keep the curriculum relevant and effective by updating content, adding new exercises, or providing feedback.
 
 ### Connect with the Creators 🔗
+This project has now been passed on to the Women in Cloud Organization, but was originally a University of Washington capstone project sponsored by Boeing, and created by the students listed below.
 - [Sirena Akopyan](https://www.linkedin.com/in/sirena-akopyan/)
 - [Bhavya Garlapati](https://www.linkedin.com/in/bhavya-garlapati-95ab46225/)
 - [Eric Kim](https://www.linkedin.com/in/taehyunnkim/)
