@@ -29,8 +29,16 @@ Contributions are welcome! Help us keep the curriculum relevant and effective by
 
 ### Connect with the Creators 🔗
 This project has now been passed on to the Women in Cloud Organization, but was originally a University of Washington capstone project sponsored by Boeing, and created by the students listed below.
+
+**2024 UW Student Team Info Innovators**
 - [Sirena Akopyan](https://www.linkedin.com/in/sirena-akopyan/)
 - [Bhavya Garlapati](https://www.linkedin.com/in/bhavya-garlapati-95ab46225/)
 - [Eric Kim](https://www.linkedin.com/in/taehyunnkim/)
 - [Mari Woodworth](https://www.linkedin.com/in/marikowoodworth/)
 - [Brandon Mendoza](https://www.linkedin.com/in/bwmendo/)
+
+**2025 UW Student Team XYKK**
+- [Jiaqi (Kiki) He](https://www.linkedin.com/in/jiaqihe317/)
+- [Xinyi (Eve) Wang](https://www.linkedin.com/in/eve-wang-uw/)
+- [Xinya Tang](https://www.linkedin.com/in/xinyat/)
+- [Kevin Ko](https://www.linkedin.com/in/kevinkochunyu/)
